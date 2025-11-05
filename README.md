@@ -1,7 +1,7 @@
-# zQuiz
+# zQuiz (Python in Flask)
 #### Video Demo: https://youtu.be/0CsNPLA6f0k
 #### Description:
-This is a web application that is a quiz that has 6 quesitons with 4 options each to chose the correct one.
+This is a web application built in Flask framework using Python, it is a quiz made up of 6 quesitons with 4 options each and only one correct answer.
 Then at the end it will show if you chosed the correct one or the wrong one.
 It will propt a log in page asking for a name and a Go button that will get user to main page
 It has a nav bar at the top of the page with logo built using bootstrap, home button, and on the right has a div with logged in user name taken from session name, and a log out button.
